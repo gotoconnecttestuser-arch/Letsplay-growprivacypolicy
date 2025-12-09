@@ -61,6 +61,15 @@ Your data will not be transferred to external organizations. We may only share y
 Data Security
 We implement strict security measures and access controls to protect your personal information from unauthorized access, use, or disclosure. Only authorized personnel have access to your data, and all access is monitored and controlled.
 
+Security Measures: 
+
+We implement appropriate technical and organizational measures to safeguard your data against unauthorized access, disclosure, alteration, or destruction. Access to your data is restricted to authorized personnel only.
+
+Access Controls: 
+
+We regularly review our access controls and security procedures to ensure your data remains protected.
+For any questions regarding our privacy practices, please contact us using the information provided on our website.
+
 6. Information Sharing and Disclosure
 We do not sell, rent, or share your personal information with third parties for their own marketing purposes. We may share your information with trusted service providers who assist us in delivering SMS messages or managing our communication systems, but only to the extent necessary for those services and with proper protections in place.
 We may also disclose information if required to do so by law, regulation, or legal process, or if necessary to protect our rights or the rights and safety of others.
