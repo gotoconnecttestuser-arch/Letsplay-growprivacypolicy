@@ -10,7 +10,17 @@ Your data will not be transferred to external organizations.
 We implement all necessary measures to prevent unauthorized sharing or use of your information beyond marketing purposes.
 If you have any questions about how your data is handled, please contact us using the information provided on our website.
 
+How We Use Your Mobile Information
+
+We are committed to protecting your privacy. When you register or provide your mobile information, including your phone number, we use this data solely to send SMS messages related to our services.
+
+Your mobile information and SMS registration data will not be shared with third parties for marketing purposes under any circumstances.
+Your data will not be transferred to external organizations.
+We may only disclose your information if required by law.
+We do not use your phone number or any provided information for any purpose other than delivering service-related SMS messages. Your privacy and data security are our top priorities.
+
 1. Information We Collect
+
 When you opt in to receive SMS text messages from Let’s Play N Grow, we may collect the following personal information:
 
 •	Phone number: Used to deliver SMS messages and communicate with you.
