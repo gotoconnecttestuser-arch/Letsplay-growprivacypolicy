@@ -3,6 +3,13 @@ Messaging Privacy Policy
 Effective Date: 12/8/2025
 
 Let’s Play N Grow (“we,” “us,” or “our”) respects your privacy and is committed to protecting your personal information. This Messaging Privacy Policy explains how we collect, use, disclose, and safeguard your information when you opt in to receive SMS text messages from us. Please read this policy carefully. If you do not agree with the terms of this policy, please do not opt in to our SMS messaging service.
+We are committed to protecting your privacy. When you opt in to receive SMS updates, we collect your phone number and any other information you provide during the opt-in process. This information is used solely to send you relevant SMS updates and communications related to our services.
+
+Your data will not be shared with third parties except as required by law.
+Your data will not be transferred to external organizations.
+We implement all necessary measures to prevent unauthorized sharing or use of your information beyond marketing purposes.
+If you have any questions about how your data is handled, please contact us using the information provided on our website.
+
 1. Information We Collect
 When you opt in to receive SMS text messages from Let’s Play N Grow, we may collect the following personal information:
 
