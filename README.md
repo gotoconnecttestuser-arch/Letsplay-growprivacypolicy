@@ -51,6 +51,15 @@ We collect this information directly from you when you provide it, either in per
 
 •	You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. You can review our https://letsplayngrow.com/terms-and-conditions for additional information about the opt-out process.
 
+Data Collection and Use
+We collect personal information that you provide directly to us, as well as data generated through your use of our website. This information is used to provide and improve our services, communicate with you, and ensure the security of our platform.
+
+Data Sharing
+Your data will not be transferred to external organizations. We do not sell, rent, or share your personal information with third parties for their own marketing purposes.
+
+Data Protection
+We implement appropriate technical and organizational measures to safeguard your personal information against unauthorized access, disclosure, alteration, or destruction. Access to your data is restricted to authorized personnel only, and we regularly review our security practices to ensure your information remains protected.
+
 6. Information Sharing and Disclosure
 We do not sell, rent, or share your personal information with third parties for their own marketing purposes. We may share your information with trusted service providers who assist us in delivering SMS messages or managing our communication systems, but only to the extent necessary for those services and with proper protections in place.
 We may also disclose information if required to do so by law, regulation, or legal process, or if necessary to protect our rights or the rights and safety of others.
