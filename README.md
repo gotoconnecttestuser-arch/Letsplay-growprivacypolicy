@@ -12,11 +12,15 @@ When you opt in to receive SMS updates, we collect your mobile phone number and 
 How We Use Your Information:
 We use your mobile number and related information solely to send you SMS messages relevant to our services, including appointment reminders, session updates, important notifications (such as late arrivals or schedule changes), and regular updates about your child’s day.
 
+You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. You can review our Terms & Conditions here https://github.com/gotoconnecttestuser-arch/letsplay-growtermsandconditions for additional information about the opt-out process.
+
 Data Sharing and Disclosure:
 We do not sell, rent, or share your personal information—including your mobile number—with any third parties for marketing purposes. Your data may only be shared with trusted service providers who assist us in delivering SMS messages or operating our services, and solely as required to provide those services under strict confidentiality obligations. If required by law, we may disclose your information to comply with legal requests.
 
 Data Protection:
 We implement appropriate technical and organizational measures to protect your information from unauthorized access, disclosure, loss, or misuse. We do not transfer your information to external organizations except as described above or as required by law.
+
+If you have any questions or concerns regarding your data, please contact us at: admin@letsplayngrow.com (214) 851 1031
 
 Your Choices:
 You may opt out of receiving SMS messages from us at any time by replying STOP to any message. For any questions regarding this Messaging Privacy Policy or how your data is handled, please contact us using the information provided on our website.
